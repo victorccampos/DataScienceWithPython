@@ -1,2 +1,3 @@
 # Python para Data Science - [Alura](https://cursos.alura.com.br/formacao-data-science-python)
-<h6 align="center">Inicio: 17/02/2025 </h6> <br>
+
+1. __Pandas: conhecendo a biblioteca.__ `groupby`, `value_counts`, `unique()`, `query()`. ✅ (19/05).
