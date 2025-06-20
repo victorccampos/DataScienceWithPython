@@ -43,3 +43,31 @@ Guia do usuário para ferramentas de entrada e saída do Pandas. O Pandas fornec
 </li></ol>
 		</div>
 	</div>
+
+---
+
+# Pandas: selecionando e agrupando dados.
+
+
+</blockquote>
+</li><li><a href="https://pandas.pydata.org/docs/reference/general_functions.html" rel="nofollow noopener" target="_blank">General functions (gratuito, inglês, texto)</a><blockquote>
+<p>Este link fornece uma explicação detalhada sobre as funções gerais em Pandas, uma biblioteca Python para manipulação de dados. Ele fornece informações e descrições úteis para todas as funções, permitindo uma melhor compreensão do usuário.</p>
+</blockquote>
+</li><li><a href="https://pandas.pydata.org/docs/reference/groupby.html" rel="nofollow noopener" target="_blank">GroupBy: split-apply-combine (gratuito, inglês, texto)</a><blockquote>
+<p>Aqui podemos encontrar uma explicação detalhada do processo de agrupamento em Pandas. O conteúdo é bastante técnico e detalhado, dividindo o processo em três etapas: dividir os dados, aplicar uma função e então combiná-los.</p>
+</blockquote>
+</li><li><a href="https://pandas.pydata.org/docs/user_guide/advanced.html#" rel="nofollow noopener" target="_blank">MultiIndex / advanced indexing (gratuito, inglês, texto)</a><blockquote>
+<p>Este guia avançado fornece informações detalhadas sobre a indexação MultiIndex em Pandas. O conteúdo é indispensável para todos que desejam usar ao máximo essa poderosa biblioteca Python para análise de dados.</p>
+</blockquote>
+</li><li><a href="https://www.theanalysisfactor.com/wide-and-long-data/" rel="nofollow noopener" target="_blank">Wide and Long Data: What is wide format data? (gratuito, inglês, texto)</a><blockquote>
+<p>Neste tutorial, você aprenderá a diferença entre os formatos de dados wide e long e verá exemplos que demonstram quando usar cada um. É uma leitura essencial para quem trabalha com análise de dados.</p>
+</blockquote>
+</li><li><a href="https://docs.python.org/3/library/re.html" rel="nofollow noopener" target="_blank">re — Regular expression operations (gratuito, inglês, texto)</a><blockquote>
+<p>Este link contém informações sobre as operações de expressão regular em Python. As expressões regulares são uma ferramenta útil nas operações de manipulação de strings. Este recurso prova ser muito útil para todos que desejam aprender mais sobre o assunto.</p>
+</blockquote>
+</li><li><a href="https://www.alura.com.br/artigos/principais-casos-uso-regex-para-tratamento-dados" target="_blank" rel="noopener">Principais casos de uso de Regex para tratamento de dados (gratuito, português, texto)</a><blockquote>
+<p>Este conteúdo fornece uma introdução aos usos da expressão regular (Regex) no tratamento de dados. Com exemplos práticos, ele explica como usar Regex para melhorar a limpeza e a preparação de dados em seus projetos de análise de dados.</p>
+</blockquote>
+</li></ol>
+		</div>
+	</div>
