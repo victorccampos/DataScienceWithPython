@@ -2,3 +2,5 @@
 .md
 .xlsx
 .json
+.ipynb_checkpoints
+.virtual_documents
