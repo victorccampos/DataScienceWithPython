@@ -24,3 +24,15 @@ Em análises estatísticas o uso mais comum da distribuição binomial é na sol
 > $k$ : número de eventos desejados que tenham sucesso  
 
 As probabilidades $p$ e $q$ não se modificam de um ensaio para outro.
+
+--- 
+
+### Distribuição de Poisson  
+
+Descreve a probabilidade de ocorrência de um número específico de eventos dentro de um intervalo fixo de tempo ou espaço, sob certas condições:  
+
+     Eventos devem ser independentes entre si, ocorrer de forma aleatória e com uma taxa média conhecida μ. 
+
+ $$ 
+ P(X=k) = \frac{e^{-\mu}\mu^k}{k!}
+ $$    
