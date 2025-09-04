@@ -36,3 +36,30 @@ Descreve a probabilidade de ocorrência de um número específico de eventos den
  $$ 
  P(X=k) = \frac{e^{-\mu}\mu^k}{k!}
  $$    
+
+ --- 
+
+ ### Distribuição normal  
+
+ __Problema__: Altura de pessoas que segue aproximadamente uma distribuição normal com média de 1,70 e desvio padrão de 0,1. Com estas informações obter as probabilidades de:
+
+ __A.__ Altura $\le$ 1.80m  
+ __B.__ Altura 1.60m $\le$ h $\le$ 1.80m  
+ __C.__ Altura $>$ 1.80m  
+
+
+$$
+f(x) = \frac{1}{\sqrt{2\pi\sigma}} \exp \left\{-\frac{1}{2}\left(\frac{x - \mu}{\sigma}\right)^2\right\}
+$$
+
+
+#### Tabelas padronizadas   
+
+Obter probabilidade sem calcular integral:
+
+$$
+Z = \frac{x -\mu}{\sigma}
+$$
+
+     Z representa o afastamento em desvios padrões da variável original em relação a média.
+ 
