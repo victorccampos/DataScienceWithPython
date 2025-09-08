@@ -62,4 +62,19 @@ Z = \frac{x -\mu}{\sigma}
 $$
 
      Z representa o afastamento em desvios padrões da variável original em relação a média.
- 
+ ---
+
+ ### Técnicas de Amostragem  
+
+ Para entendermos sua importância, é interessante sabermos que geralmente estamos lidando com __Amostras__ em Estatística e __raramente com a População__. Por isso é importante aprendermos bem os conceitos para calcularmos o tamanho de Amostra quando estivermos abordando __Estimação__.
+
+ Podem ser classificadas quanto à contagem: Finitas e Infinitas.  
+
+ __Parâmetros da população__ são atributos numéricos, como a _média_ e o _desvio padrão_.
+
+     💡 O foco de inferência estatística é criar Testes de Hipótese e estimar parâmetros a partir de Amostras.  
+
+
+#### Amostragem Aleatória Simples  
+> Cada elemento da população tenha as __mesmas chances__ de ser selecionado para fazer parte da amostra.
+
