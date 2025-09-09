@@ -78,3 +78,31 @@ $$
 #### Amostragem Aleatória Simples  
 > Cada elemento da população tenha as __mesmas chances__ de ser selecionado para fazer parte da amostra.
 
+
+### Estimação
+
+#### Teorema do Limite Central
+
+> A distribuição das médias amostrais, independentemente da distribuição original, tende a uma normal de média igual a da população e desvio padrão da variável original divido pela raiz quadrada do tamanho da amostra. Resultado assegurado para $N > 30$. 
+
+$$
+\sigma_{\bar{x}} = \frac{\sigma}{\sqrt{n}}
+$$  
+
+#### Nível de confiança e significância. 
+
+O __nível de confiança__ $(1 - \alpha)$ representa a probabilidade de acerto da estimativa. De forma _complementar_ o __nível de significância__ ($\alpha$) expressa a probabilidade de _erro_ da estimativa.
+
+O __nível de confiança__ representa o grau de confiabilidade do resultado da estimativa estar dentro do determinado intervalo.
+
+__Erro inferencial (Margem de Erro)__  
+
+$$
+e = Z \frac{\sigma}{\sqrt N}
+$$
+
+Lê-se: "Z vezes o desvio padrão das médias amostrais $\sigma_{\bar{X}}$ ".
+
+
+
+
