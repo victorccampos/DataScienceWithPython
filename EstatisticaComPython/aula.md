@@ -103,6 +103,28 @@ $$
 
 Lê-se: "Z vezes o desvio padrão das médias amostrais $\sigma_{\bar{X}}$ ".
 
+### Calculando Tamanho da Amostra
+$$
+e = z \frac{\sigma}{\sqrt{n}}
+$$
+__Com desvio padrão conhecido__  
 
+$$
+n = \left(z \frac{\sigma}{e} \right)^2
+$$
 
+__Com desvio padrão desconhecido__  
+$$
+n = \left(z \frac{s}{e} \right)^2
+$$
+
+- $z$ : variável normal padronizada
+- $\sigma$ : desvio padrão populacional
+- $s$ : desvio padrão amostral
+- $e$ : erro inferencial
+
+__Observações__ 
+
+1. O desvio padrão $\sigma$ ou $s$ devem estar na mesma unidade de medida.    
+2. Quado o erro ($e$) for representado em termos percentuais, deve ser interpretado como um percentual relacionado à média.  
 
